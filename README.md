@@ -1,24 +1,14 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Nishant.</h2>
+<h2 align="center">Hi 👋! My name is Nishant. I'm a senior pursuing B.Tech in Information Technology, passionate about the world of full-stack development.</h2>
 
 ###
-
-<br clear="both">
-
-<h3 align="center">I'm a senior pursuing B.Tech in Information Technology, passionate about the world of full-stack development.</h3>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nishantdecode.nishantdecode&left_text=Profile%20Views"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="nishantdecode@gmail.com" target="_blank">
@@ -34,8 +24,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="167" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611ct5kt377kgi7nwt00n78ltodich5rmz3bvd6yyo7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="quote"  />
 </div>
 
 ###
