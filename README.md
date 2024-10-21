@@ -1,4 +1,108 @@
-- 👋 Hey there! I'm Nishant, a third-year tech college student with a strong passion for web development.
-- 👀 I've been actively exploring the ins and outs of this dynamic field, balancing coursework with hands-on experiences through personal projects and internships.
-- 🌱 In my web development journey, I've delved into a range of web development technologies and programming languages. From mastering the basics of HTML, CSS, and JavaScript to popular UI Libraries like React.js and diving into advanced frameworks like NEXT.js and Flask, I've built a solid foundation in the tools that power modern web applications.
-- 💞️ Whether it's building innovative web applications or contributing to open-source projects, I’m looking to collaborate on projects driven by a passion for creating impactful digital experiences.
+<h2 align="left">Hi 👋! My name is Nishant and I'm a senior pursuing B.Tech in Information Technology, passionate about the world of full-stack development.</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nishantdecode.nishantdecode&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantdecode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantdecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611ct5kt377kgi7nwt00n78ltodich5rmz3bvd6yyo7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="30" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="30" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="30" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="nishantdecode@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nishantdecode/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/nishantdecode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nishantdecode/nishantdecode/output/snake.svg" alt="Snake animation" />
+
+###
