@@ -1,27 +1,57 @@
-<h2 align="left">Hi 👋! My name is Nishant and I'm a senior pursuing B.Tech in Information Technology, passionate about the world of full-stack development.</h2>
+<br clear="both">
+
+<h2 align="center">Hi 👋! My name is Nishant.</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<h3 align="center">I'm a senior pursuing B.Tech in Information Technology, passionate about the world of full-stack development.</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nishantdecode.nishantdecode&left_text=Profile%20Views"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantdecode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantdecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="nishantdecode@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nishantdecode/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/nishantdecode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611ct5kt377kgi7nwt00n78ltodich5rmz3bvd6yyo7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img height="167" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611ct5kt377kgi7nwt00n78ltodich5rmz3bvd6yyo7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantdecode&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nishantdecode&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -82,27 +112,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="nishantdecode@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nishantdecode/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/nishantdecode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nishantdecode/nishantdecode/output/snake.svg" alt="Snake animation" />
 
 ###
