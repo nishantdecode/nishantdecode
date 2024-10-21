@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Nishant. I'm a senior with a strong passion for web development. I'm genuinely excited about the ever-evolving world of web development with innovative web
+<h2 align="center">Hi 👋! My name is Nishant. I'm a senior with a strong passion for web development. I'm genuinely excited about the ever-evolving world of web development.
 
 ###
 
