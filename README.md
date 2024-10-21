@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Nishant. I'm a senior pursuing B.Tech in Information Technology, passionate about the world of full-stack development.</h2>
+<h2 align="center">Hi 👋! My name is Nishant. I'm a senior, passionate about the world of full-stack development.</h2>
 
 ###
 
