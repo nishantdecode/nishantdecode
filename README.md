@@ -22,6 +22,7 @@
   </a>
 </div>
 
+<!-- 
 ###
 
 <br clear="both">
@@ -29,6 +30,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="quote"  />
 </div>
+-->
 
 ###
 
@@ -38,6 +40,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nishantdecode&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=nishantdecode&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+[![An image of @nishantdecode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishantdecode)](https://holopin.io/@nishantdecode)
 
 ###
 
