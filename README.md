@@ -1,6 +1,6 @@
-<br clear="both">
+ <br clear="both">
 
-<h2 align="center">Hi 👋! I'm Nishant, and here’s a look at my development journey so far!!</h2>
+<h2 align="center">Hi 👋! I'm Nishant, and here’s a look at my development journey so far!</h2>
 
 ###
 
